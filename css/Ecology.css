@@ -4,6 +4,10 @@
 /* 內文小標字型  font-family: 'Noto Sans TC', sans-serif;*/
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Handjet&family=Noto+Sans+TC&family=Ruwudu&display=swap');
 
+body{
+    overflow-x: hidden;
+}
+
 .main {
     background: linear-gradient(rgb(219, 237, 240), rgb(139, 230, 248), rgb(93, 154, 185), rgb(42, 86, 117), rgb(13, 45, 67), rgb(5, 32, 52), rgb(3, 23, 37), rgb(1, 10, 17), rgb(0, 0, 0));
     /* height: 2600vh; */
