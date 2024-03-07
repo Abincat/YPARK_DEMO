@@ -169,7 +169,7 @@ body{
     clear: both;
     width: 50%;
     /* border: 3px solid rgb(255, 196, 0); */
-
+overflow-x: hidden;
 }
 
 .content li {
