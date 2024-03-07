@@ -999,6 +999,7 @@ body{
 
     .depth_50m_introduce img {
         width: 300px;
+        transform: scaleX(-1)
     }
 
     .depth_70m_introduce img {
